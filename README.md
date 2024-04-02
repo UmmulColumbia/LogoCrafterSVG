@@ -45,3 +45,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 Node.js and the npm community for the invaluable packages.
+
+#### Unleash your brand's potential with custom logo creation – where your vision becomes a vibrant reality!
