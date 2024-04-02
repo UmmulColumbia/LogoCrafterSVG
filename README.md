@@ -29,7 +29,7 @@ Enter the shape color (keyword or hex): #FF5733
 Generated logo.svg
 
 ## Credit
-
+This project was created by Ummul Mukta to demonstrate skills in generating custom logos. It leverages the inquirer package for interactive user prompts and jest for testing.
 
 
 ## License
