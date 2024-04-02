@@ -18,10 +18,11 @@ npm install inquirer@8.2.4
 npm install jest@28.1.3
 
 ## Usage
-To start creating your logo, run:
+To start creating custom logo, run:
+
 node index.js
 
-Follow the interactive prompts to choose your logo's text, text color, shape, and shape color. After completing all prompts, your logo will be saved as logo.svg in the current directory, and you'll see a message indicating the file has been generated.
+Follow the interactive prompts to choose logo's text, text color, shape, and shape color. After completing all prompts, logo will be saved as logo.svg in the current directory, a message indicating the file has been generated.
 
 Example of creating a logo with a circle shape:
 
@@ -30,6 +31,10 @@ Enter the text color (keyword or hex):red
 Choose a shape: circle
 Enter the shape color (keyword or hex): #FF5733
 Generated logo.svg
+
+## Screenshot
+
+## Video walkthrough
 
 ## Credit
 This project was created by Ummul Mukta to demonstrate skills in generating custom logos. It leverages the inquirer package for interactive user prompts and jest for testing.
