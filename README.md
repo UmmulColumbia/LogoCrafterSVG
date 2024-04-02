@@ -26,6 +26,7 @@ Clone this repository to your local machine:
 git clone https://yourrepositorylink.com/LogoCrafterSVG.git
 Install the required dependencies:
 npm install inquirer@8.2.4
+npm install jest@28.1.3
 
 Usage
 To start creating your logo, run:
@@ -35,7 +36,7 @@ Follow the interactive prompts to choose your logo's text, text color, shape, an
 Example of creating a logo with a circle shape:
 
 Enter up to three characters for the logo text: ABC
-Enter the text color (keyword or hex): #FFFFFF
+Enter the text color (keyword or hex):red
 Choose a shape: circle
 Enter the shape color (keyword or hex): #FF5733
 Generated logo.svg
