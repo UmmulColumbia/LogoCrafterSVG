@@ -11,7 +11,7 @@ LogoCrafterSVG is a command-line application built with Node.js that enables use
 To use LogoCrafterSVG, need to have Node.js installed on your computer. If you don't have Node.js installed, download it from nodejs.org
 
 Clone this repository to your local machine:
-- git clone https://yourrepositorylink.com/LogoCrafterSVG.git
+- git clone https://github.com/UmmulColumbia/LogoCrafterSVG.git
 - Install the required dependencies:
   
 npm install inquirer@8.2.4
