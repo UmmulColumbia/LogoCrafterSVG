@@ -2,7 +2,7 @@
 LogoCrafterSVG is a command-line application built with Node.js that enables users to create custom logos saved as SVG files. By following a simple interactive prompt, users can specify the logo's text, color, and shape to generate a personalized logo.
 
 ## Features
-Interactive CLI prompts for custom logo creation.
+- Interactive CLI prompts for custom logo creation.
 Supports multiple shapes: Circle, Triangle, Square.
 Allows custom text (up to three characters) and color selection for both text and shape.
 Generates logos as SVG files.
