@@ -6,13 +6,14 @@ LogoCrafterSVG is a command-line application built with Node.js that enables use
 - Supports multiple shapes: Circle, Triangle, Square.
 - Allows custom text (up to three characters) and color selection for both text and shape.
 - Generates logos as SVG files.
-- 
+ 
 ## Installation
 To use LogoCrafterSVG, need to have Node.js installed on your computer. If you don't have Node.js installed, download it from nodejs.org
 
 Clone this repository to your local machine:
 - git clone https://yourrepositorylink.com/LogoCrafterSVG.git
 - Install the required dependencies:
+  
 npm install inquirer@8.2.4
 npm install jest@28.1.3
 
