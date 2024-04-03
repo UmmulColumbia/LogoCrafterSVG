@@ -41,6 +41,9 @@ To start creating custom logo, run:
 
 ## Video walkthrough
 
+https://drive.google.com/file/d/1GJXPj1j5MZ52Mf1tZ7B3Rd3p-QeCVGUd/view
+
+
 ## Credit
 This project was created by Ummul Mukta to demonstrate skills in generating custom logos. It leverages the inquirer package for interactive user prompts and jest for testing.
 
