@@ -20,21 +20,21 @@ npm install jest@28.1.3
 ## Usage
 To start creating custom logo, run:
 
-node index.js
+- node index.js
 
-Follow the interactive prompts to choose logo's text, text color, shape, and shape color. After completing all prompts, logo will be saved as logo.svg in the current directory, a message indicating the file has been generated.
+- Follow the interactive prompts to choose logo's text, text color, shape, and shape color. After completing all prompts, logo will be saved as logo.svg in the current directory, a message indicating the file has been generated.
 
-Example of creating a logo with a circle shape:
+- Example of creating a logo with a circle shape:
 
-Enter up to three characters for the logo text: DIT
+- Enter up to three characters for the logo text: DIT
 
-Enter the text color (keyword or hex):white
+- Enter the text color (keyword or hex):white
 
-Choose a shape: circle
+- Choose a shape: circle
 
-Enter the shape color (keyword or hex): blue
+- Enter the shape color (keyword or hex): blue
 
-Generated logo.svg
+- Generated logo.svg
 
 ## Screenshot
 ![image](https://github.com/UmmulColumbia/LogoCrafterSVG/assets/156148729/f9549e26-9a4f-4a45-a857-11a510430b76)
