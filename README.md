@@ -33,6 +33,7 @@ Enter the shape color (keyword or hex): #FF5733
 Generated logo.svg
 
 ## Screenshot
+![image](https://github.com/UmmulColumbia/LogoCrafterSVG/assets/156148729/f9549e26-9a4f-4a45-a857-11a510430b76)
 
 ## Video walkthrough
 
