@@ -26,10 +26,14 @@ Follow the interactive prompts to choose logo's text, text color, shape, and sha
 
 Example of creating a logo with a circle shape:
 
-Enter up to three characters for the logo text: ABC
-Enter the text color (keyword or hex):red
+Enter up to three characters for the logo text: DIT
+
+Enter the text color (keyword or hex):white
+
 Choose a shape: circle
-Enter the shape color (keyword or hex): #FF5733
+
+Enter the shape color (keyword or hex): blue
+
 Generated logo.svg
 
 ## Screenshot
